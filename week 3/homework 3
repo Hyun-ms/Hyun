@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Famous Foods in Toronto</title>
+</head>
+<body>
+    <header>
+        <h1>Famous Foods in Toronto</h1>
+    </header>
+    <nav>
+        <h3>Navigation</h3>
+        <a href="main.html">Main Page</a>
+        <a href="order.html">Order Page</a>
+    </nav>
+    <section>
+        <p>Here are some of the most famous foods you must try in Toronto:</p>
+        <table>
+            <tr>
+                <th>Food</th>
+                <th>Rating</th>
+                <th>Description</th>
+            </tr>
+            <tr>
+                <td>Butter Chicken Roti</td>
+                <td>9/10</td>
+                <td>A delicious fusion dish that wraps flavorful butter chicken inside a soft roti. It's a local favorite!</td>
+            </tr>
+            <tr>
+                <td>Peameal Bacon Sandwich</td>
+                <td>10/10</td>
+                <td>A Toronto classic! Juicy, salty, and served on a fresh bun, it's a must-try at St. Lawrence Market.</td>
+            </tr>
+            <tr>
+                <td>Toronto-Style Pizza</td>
+                <td>8/10</td>
+                <td>Known for its creative toppings and crispy crust, this pizza is uniquely Torontonian.</td>
+            </tr>
+        </table>
+    </section>
+    <div>
+        <img alt="Butter Chicken Roti" src="images/butter_chicken_roti.jpg" width="300" height="200">
+        <p><strong>Butter Chicken Roti:</strong> A rich and satisfying meal that combines Indian spices with the portability of a wrap.</p>
+    </div>
+    <div>
+        <img alt="Peameal Bacon Sandwich" src="images/peameal_bacon_sandwich.jpg" width="300" height="200">
+        <p><strong>Peameal Bacon Sandwich:</strong> A savory and iconic dish perfect for breakfast or lunch.</p>
+    </div>
+    <div>
+        <img alt="Toronto-Style Pizza" src="images/toronto_style_pizza.jpg" width="300" height="200">
+        <p><strong>Toronto-Style Pizza:</strong> A pizza lover's delight with unique toppings and a crunchy crust.</p>
+    </div>
+    <footer>
+        <p>&copy; 2022. All rights reserved.<br>CSC309, University of Toronto</p>
+    </footer>
+</body>
+</html>
